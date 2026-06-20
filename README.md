@@ -37,6 +37,18 @@ Repositorio matriz do projeto **OutsiderS - Lost Frontier**, reunindo canone, de
 
 O repositório **MasterQuest** deve ser tratado como projeto associado: ele pode fornecer arquitetura, automacoes ou componentes de Foundry, mas este repositório permanece como fonte matriz do canone e da producao de **OutsiderS - Lost Frontier**.
 
+Repositorio associado:
+
+```text
+https://github.com/WildPoxx/masterquest-fvtt-dev
+```
+
+Estrategia de GitHub/deploy:
+
+```text
+docs/devops/GITHUB_AND_DEPLOY_STRATEGY.md
+```
+
 ## Politica inicial de Git
 
 Este repositorio nasce privado e seletivo. Materiais de terceiros, instaladores, ZIPs, PDFs, runtimes locais, assets pesados e exports temporarios devem ficar fora do Git comum. Assets curados podem ser adicionados depois com Git LFS ou excecoes explicitas.
@@ -44,4 +56,3 @@ Este repositorio nasce privado e seletivo. Materiais de terceiros, instaladores,
 ## Colaboracao IA
 
 Codex e Claude devem usar `AI_COLLABORATION.md` como protocolo compartilhado de trabalho.
-
