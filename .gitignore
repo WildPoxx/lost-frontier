@@ -1,0 +1,93 @@
+# Lost Frontier repository hygiene
+
+# Local assistant/runtime state
+/.agents/
+/.codex/
+/.git/
+/.obsidian/
+
+# Windows/system files
+desktop.ini
+Thumbs.db
+*.tmp
+*.temp
+*.bak
+*.old
+*.log
+*.map
+
+# Generated outputs and scratch space
+/tmp/
+/output/
+/diagnostics/
+**/__pycache__/
+**/*.pyc
+**/.pytest_cache/
+**/.mypy_cache/
+**/node_modules/
+**/.pnpm-store/
+**/dist/
+**/build/
+**/.vite/
+**/.next/
+
+# Third-party/reference packages and local Foundry installs
+/RPG Source Books - OLF/
+/12. IA e Foundry Tools/Foundry-Data/
+/12. IA e Foundry Tools/Uso do espaço de Trabalho/modules/
+/12. IA e Foundry Tools/Uso do espaço de Trabalho/JB2A_DnD5e/
+/12. IA e Foundry Tools/Uso do espaço de Trabalho/swade-animated-action-deck/
+/12. IA e Foundry Tools/Modulo Nativo Outsiders/componentes/
+/12. IA e Foundry Tools/Modulo FQL - OLF - Hack/swade-v5.2.6[13]/
+/12. IA e Foundry Tools/Modulo FQL - OLF - Hack/foundryvtt-forien-quest-log-master/
+**/forien-quest-log/
+**/swade-v5.2.6*/
+**/swade-scifi-companion/
+**/swade-supers-companion/
+**/plutonium/
+**/soundfxlibrary/
+**/JB2A*/
+
+# Installers, archives, app packages, and generated releases
+*.exe
+*.msi
+*.msix
+*.zip
+*.7z
+*.rar
+*.tar
+*.gz
+*.tgz
+
+# Heavy/generated media. Add curated assets later with Git LFS or explicit exceptions.
+*.webp
+*.webm
+*.glb
+*.gltf
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.psd
+*.exr
+*.mp3
+*.ogg
+*.wav
+*.mp4
+*.mov
+*.avi
+*.pdf
+*.woff
+*.woff2
+*.ttf
+*.otf
+
+# Secrets and local environment files
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.pfx
+secrets/
+private/

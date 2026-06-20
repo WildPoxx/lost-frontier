@@ -1,0 +1,10 @@
+* text=auto
+
+*.md text
+*.txt text
+*.json text
+*.js text
+*.css text
+*.html text
+*.hbs text
+*.py text
