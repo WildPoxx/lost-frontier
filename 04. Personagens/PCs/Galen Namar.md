@@ -1,0 +1,67 @@
+# Galen Namar
+
+Galen Namar nasceu nos arredores de Rust Hollow, filho de uma família humana acostumada ao trabalho duro da fronteira. Seus pais viviam de pequenos transportes, manejo auxiliar de Bondaks, recuperação de sucata e serviços ocasionais nas rotas entre Rust Hollow e o Alário. Nunca tiveram riqueza, mas tampouco foram gente sobrando no mundo. Eram úteis, práticos, calejados, e ensinaram cedo ao filho que sobreviver em Tanelohr dependia menos de bravata do que de atenção ao metal, aos bichos e ao silêncio antes da tempestade.
+
+Na infância, Galen teve uma irmã mais nova chamada Mira. Ele sustenta essa lembrança com a teimosia amarga de quem precisou defendê-la por anos contra a incredulidade dos outros. O problema é que ninguém mais se recorda dela, como se a existência da menina tivesse sido arrancada do mundo e deixado para trás apenas a insistência dele. A única prova material que Galen conserva é um pequeno elefante de chumbo, tosco, pesado e mal acabado, com um nome gravado na base: MIRA.
+
+Galen relê esse nome com frequência, não por sentimentalismo, mas porque às vezes a memória falha nas bordas. Quando está exausto, ferido ou submetido por tempo demais à influência da máscara, o nome parece querer se soltar primeiro, como se a lembrança precisasse de um suporte físico para não desmanchar. Ele nunca esquece inteiramente a perda, nem a culpa que a acompanha. O que ameaça desaparecer é a forma precisa daquilo que perdeu, e por isso ele volta ao metal, ao peso, à gravação.
+
+## O dia da máscara
+
+Galen tinha 9 anos, e Mira, 7, quando os dois ajudavam os pais a conduzir Bondaks por uma área afastada próxima ao Campo das Estrelas Cadentes. Foi ali que encontraram uma abertura entre rochas que não parecia uma caverna comum. O ar lá dentro era frio demais, seco demais, imóvel demais, como se o lugar não participasse do resto da paisagem. Avançando mais um pouco, deram com o corpo de um Tomb Raider morto em circunstâncias que Galen nunca conseguiu descrever de maneira satisfatória.
+
+O cadáver não parecia vítima de lâmina, desabamento ou fera. Havia nele alguma coisa errada num nível mais fundamental, como se o corpo tivesse sido rompido por uma violência sem ferramenta, por uma força que agia através de quinas, fraturas e direções impossíveis. Perto dele havia uma satchel envelhecida, e dentro dela estava uma máscara dividida em duas partes. A metade superior cobria olhos, testa, têmporas e parte do nariz; a inferior tomava boca, maxilar e o resto da face.
+
+Galen pegou a metade de cima, e Mira ficou com a de baixo. Fizeram com o artefato o que duas crianças fariam diante de algo estranho que ainda não sabem temer: transformaram aquilo em brincadeira. Galen roubou o elefante de chumbo da irmã para provocá-la e disparou pela caverna, enquanto Mira foi atrás dele, rindo, gritando e usando a parte inferior da máscara como se fosse o rosto de uma rainha morta, de um monstro de lenda ou de alguma figura grotesca saída de uma história ruim.
+
+Quando ela finalmente o alcançou, alguma coisa surgiu da quina da parede. Essa é a única forma de Galen narrar o ocorrido sem mentir para si mesmo. A criatura não entrou pela caverna nem se aproximou correndo pelo chão; ela emergiu de um ângulo, como se a geometria tivesse sido ferida e respondido mostrando dentes. Mais tarde, ele aprenderia o nome que melhor cabia àquela lembrança: Hound of Tindalos. Naquele dia, tudo o que soube foi que a coisa levou Mira, e que depois disso o mundo começou a agir como se ela nunca tivesse existido.
+
+## O menino que gritou “Hound”
+
+Quando Galen voltou para casa, seus pais não se lembravam de ter uma filha. Não havia cama, roupa, registro, objeto de uso cotidiano ou história doméstica que restituísse Mira ao lugar de pessoa real. O espanto de Galen não encontrou eco nem mesmo na forma do luto, porque o luto pressupõe que algo tenha sido perdido, e para todos os outros não havia nada ali a perder. Restavam apenas a lembrança dele e o elefante de chumbo com o nome gravado, concreto demais para ser ignorado, insuficiente demais para convencer alguém.
+
+Todos podiam ver o brinquedo; ninguém aceitava o brinquedo como prova. Com o tempo, Galen passou a ocupar na própria casa a posição miserável de quem diz a verdade do jeito errado e, por isso, é tratado como delirante. Sonhava repetidamente com a caverna, ouvia vozes, via sombras nas quinas das paredes e insistia numa irmã que o mundo inteiro parecia ter apagado sem esforço. A máscara, que ele manteve escondida, começou também a reagir à sua presença de maneiras que nem ele entendia nem seus pais tinham condições de suportar.
+
+Foi assim que, desesperados, seus pais recorreram a Elias Veyr, um dos grandes nomes da Ordem Asimoviana e representante dos Mirage Engineers no Sínodo dos Arcanos Asimovianos. Elias não encontrou qualquer prova independente da existência de Mira, mas identificou na máscara algo muito pior do que um simples delírio infantil. O artefato carregava um poder transdimensional antigo e já estava entrelaçado a Galen num nível que a Ordem considerou anômalo e perigoso. A máscara não era só um objeto encontrado por acaso; ela parecia aderida à percepção do menino e talvez à própria continuidade dele no mundo.
+
+## O ritual que deu errado
+
+Na tentativa de compreender a origem da máscara e das lembranças de Galen, Elias Veyr realizou um acesso controlado às Dreamlands. A operação fracassou, embora “fracasso” talvez seja uma palavra complacente para o que aconteceu. Durante o ritual, uma entidade onírica predatória atravessou a abertura e quase matou Elias antes de arrastar Galen consigo. Mais tarde, a Ordem registraria a criatura pelo nome de Onirofagita, mas na prática isso esclarecia pouco: tratava-se de alguma coisa capaz de atravessar frestas entre estados de realidade e se alimentar do que encontrava preso nelas.
+
+Galen desapareceu por mais de um ano. Nas Dreamlands, ficou preso a uma sucessão de pesadelos em circuito, nos quais sempre reencontrava a máscara, sempre tornava a ver Mira e sempre a perdia outra vez. Os detalhes mudavam de um ciclo para outro: às vezes os dois continuavam crianças, às vezes estavam mais velhos; às vezes a caverna virava tumba, às vezes o Tomb Raider tinha o rosto dele próprio; em certas repetições, Mira falava como se aquela história já estivesse gasta pelo excesso de reencenação. O desfecho, porém, nunca cedia. Mira era levada, Galen ficava, e a máscara permanecia.
+
+## Helena Brimstone
+
+Elias Veyr sobreviveu ao desastre, mas não tinha condições de resgatar Galen sozinho. Foi então que chamou Helena Brimstone, Demon Hunter Asimoviana e colega de Ordem. Helena levou tempo para localizar o rastro do garoto nas Dreamlands, e quando o encontrou ele já estava sendo corroído pela repetição, pela culpa e pelo medo. O Onirofagita não foi destruído de forma definitiva, nem plenamente compreendido. Tudo o que se pode dizer com segurança é que, naquele momento, ele perdeu sua presa.
+
+Helena conseguiu trazer Galen de volta, e a máscara voltou com ele. Isso resolveu uma dúvida crucial dentro da Ordem: o artefato não era uma simples construção onírica ou um símbolo fabricado pela prisão das Dreamlands. O cenário que o mantinha cativo colapsou, mas a máscara permaneceu real e inseparável dele. Galen tinha 13 anos quando retornou, e foi a partir desse resgate que Helena Brimstone passou a exercer o papel de sua patrona dentro da Ordem Asimoviana, acompanhando de perto o destino de um caso que ninguém considerava simples.
+
+## A entrada na Ordem
+
+Depois do resgate, Galen foi incorporado à Ordem Asimoviana, não exatamente como quem escolhe uma carreira, mas como quem entra na única estrutura capaz de administrar um perigo já instalado. Seus pais aceitaram porque não havia alternativa visível, e Galen aceitou pelo mesmo motivo. A lógica apresentada a ele era direta: se não aprendesse a controlar a máscara, acabaria sendo consumido por ela. O treinamento, portanto, não tinha nada de vocacional. Era contenção, disciplina e sobrevivência sob linguagem institucional.
+
+Durante anos, seus mestres tentaram ensiná-lo a distinguir visão de delírio, memória de armadilha, contato de possessão. A leitura oficial da Ordem permaneceu cautelosa e fria: talvez Mira nunca tivesse existido; talvez fosse apenas uma construção do Onirofagita, um dispositivo psíquico criado para capturar Galen e explorar a energia produzida pelo entrelace entre ele e a máscara Anunnaki. Galen ouviu tudo, aprendeu o suficiente para operar dentro da instituição e obedeceu quando era necessário. O que nunca fez foi acreditar. Para ele, Mira existiu, e se o mundo a apagou, então o mundo talvez possa ser forçado a devolvê-la.
+
+## A máscara
+
+A máscara que Galen carrega corresponde apenas à metade superior de um artefato maior. Ele a chama de Olho dos Sonhos. A metade inferior, conhecida por ele como a Boca, teria desaparecido com Mira no interior da caverna. Desde então, o artefato passou a funcionar ao mesmo tempo como instrumento e ameaça. Por meio dele, Galen percebe rastros de energia, distorções, presenças ocultas e coisas escondidas atrás da superfície ordinária do mundo, mas todo ganho de percepção vem acompanhado da sensação de que algo também o observa de volta.
+
+A influência da máscara não se limita ao uso ritual ou ao combate. Ela fala com ele em sonhos, em sussurros, em impulsos difíceis de separar da própria vontade, e às vezes se impõe mesmo quando ele está acordado. Galen sabe que o artefato pode ser a única chave real para encontrar Mira ou para compreender o que houve com ela. Sabe também que confiar demais nessa promessa seria o caminho mais curto para a ruína. A máscara não se comporta como ferramenta neutra. Ela parece exigir obediência, intimidade e permanência.
+
+## Galen hoje
+
+Aos 21 anos, Galen conquistou autonomia suficiente para seguir um caminho próprio dentro da Ordem, embora ainda não pertença formalmente a uma subordem específica. Sua inclinação natural o coloca entre dois campos: os Mirage Engineers, porque a máscara opera por percepção, ilusão, disfarce e presença; e os Demon Hunters, porque sua vida inteira foi moldada por entidades, Dreamlands, apagamentos, possessão e caça extradimensional. A indecisão não tem nada de dilema elegante. Ela apenas reflete o fato de que sua história já nasceu atravessada por mais de uma jurisdição do estranho.
+
+No trato cotidiano, Galen costuma se apresentar como alguém cínico, sarcástico e guiado por interesse. Não gosta de bancar o virtuoso e quase nunca ajuda por caridade desinteressada. Quando aceita se envolver em alguma situação, tende a cobrar em acesso: arquivos, nomes, mapas, permissões, relatórios, artefatos, portas abertas. Ainda assim, existe um tipo de caso ao qual ele responde de modo menos controlado. Quando alguém é apagado, desacreditado, usado como instrumento ou tratado como delírio alheio, Galen perde parte da própria indiferença. Ele diz que não salva pessoas, apenas recupera coisas perdidas, mas nem sempre a diferença resiste aos fatos.
+
+## Retorno a Rust Hollow
+
+Nas últimas semanas, a máscara passou a mostrar Rust Hollow nos sonhos de Galen com uma insistência impossível de tratar como ruído. A cidade aparecia repetidamente ligada a quatro letras: SWIX. O Olho dos Sonhos sugere, em seus modos tortos de sugerir, que esse sinal pode conduzi-lo até o paradeiro da Boca dos Mortos, a metade inferior da máscara. Galen sustenta, com uma convicção que ninguém mais compartilha, que essa parte do artefato ainda está com Mira e que o vínculo entre as duas jamais foi rompido de verdade.
+
+Foi por isso que ele voltou a Rust Hollow. Seus pais ainda vivem ali, e foi ali que a perda começou a ser transformada em delírio aos olhos dos outros. O retorno, portanto, não é apenas geográfico; é também um reencontro com o ponto exato em que sua memória deixou de coincidir com a do resto do mundo. Se existe um novo rastro sobre Mira, sobre a Boca ou sobre o que quer que tenha saído daquela quina de pedra anos atrás, Galen acredita que ele necessariamente passa por esse lugar.
+
+## A missão da Ordem
+
+O retorno a Rust Hollow também possui uma justificativa oficial. A pedido de St. Iron, um dos membros mais antigos e respeitados da Ordem Asimoviana, Galen recebeu a missão de encontrar e observar um provável candidato à Ordem: um cyborg chamado Damask. Sua tarefa é acompanhá-lo, avaliar suas capacidades e decidir se ele possui material suficiente para ser considerado pela instituição. No papel, essa é a razão de sua presença na cidade; na prática, a missão funciona também como cobertura conveniente para uma busca que ele teria empreendido de qualquer forma.
+
+Galen aceitou a incumbência sem dificuldade porque ela lhe oferece duas vantagens ao mesmo tempo. De um lado, mantém intacta a aparência de lealdade funcional à Ordem e lhe garante espaço de circulação, acesso e justificativa administrativa. De outro, permite que investigue o chamado da máscara sem precisar explicá-lo a ninguém que já o considere instável demais. Pela primeira vez em muitos anos, os dois vetores principais de sua vida talvez apontem na mesma direção: a demanda institucional e a obsessão pessoal. Galen não confia em coincidências desse tipo, mas também não pretende desperdiçá-las.

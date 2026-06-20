@@ -1,0 +1,15 @@
+O Silêncio entre as Vibrações
+O cockpit do *Sussurro de Ferro* era um santuário de trevas. Kaelen nunca precisou de luzes no painel. Para ele, fótons eram ruído. Ele preferia o toque frio das manoplas de feedback tátil e o zumbido de baixa frequência do motor de Teleritha, que pulsava como o coração de uma fera adormecida.
+Lá fora, a tempestade de cinzas de **Yarallon** devorava a visibilidade de qualquer piloto comum. Mas Kaelen não olhava para fora. Ele sentia a densidade da nuvem de enxofre vibrando contra a blindagem de Osmérion da nave.
+— "Aproximação de 500 metros. Densidade aumentando," — a voz sintética da interface **Kurogane** sussurrou em seu ouvido interno.
+Kaelen inclinou o manche. Ele não "viu" o paredão de rocha à esquerda; ele sentiu o vácuo de pressão que a massa de pedra criava. Ele pilotava pela música do deslocamento de ar.
+Anos atrás, nas profundezas das minas de **Yarallon**, os outros mineradores diziam que ele era um peso morto por ser cego de nascença. Até o dia em que um desmoronamento selou a galeria 4. No escuro total e sob poeira asfixiante, os "videntes" entraram em pânico. Kaelen apenas estendeu a mão, sentiu a corrente de ar que escapava por uma fissura invisível e os guiou para fora.
+Ele não superou a escuridão. Ele a transformou em seu mapa.
+Agora, como um mercenário das rotas proibidas, ele cruzava o **Mar de Areia** em direção ao **Nexo Umbra**. Ele carregava uma carga que a **Technoyakuza** mataria para possuir, navegando por trilhas que a **Guarda Cobalto** jurava serem intransitáveis. Para Kaelen, o universo não era um lugar para ser visto, mas uma partitura para ser sentida. E ele pretendia tocar cada nota até o fim.
+### Conexões com o Cenário (Para o Mestre)
+Para garantir que o personagem tenha "ganchos" mecânicos e narrativos em Tanelohr, aqui estão os pontos de contato com as facções:
+ 1. **O Alvo da Axyon Core (Cyberdome):** Kaelen é um milagre biológico indesejado. A **Axyon Core** acredita que sua habilidade de navegar sem sensores visuais se deve a uma mutação que permite que seu cérebro processe **Aethera** pura. Eles o querem em uma mesa de cirurgia para entender como "mapear o impossível".
+ 2. **O Contrato com os Stargazers:** Kaelen é um dos poucos pilotos que os **Stargazers** confiam para entrar no **Nexo Umbra**. Como os instrumentos eletrônicos costumam falhar ou dar leituras falsas perto do **Véu Rasgado**, a intuição sinestésica de Kaelen é o único radar confiável.
+ 3. **Respeito na Magistratura de Caliburn:** Ele tem um histórico limpo com os **Magistrados de Fogo**. Já transportou fugitivos de alta periculosidade através de tempestades de cinzas onde as patrulhas de Sunirae não ousavam entrar. Eles o respeitam, mas o mantêm sob vigilância constante.
+ 4. **Inimigo dos Abutres de Aço:** Kaelen já humilhou vários perseguidores dos **Abutres** ao atraí-los para campos de destroços no **Campo das Estrelas Cadentes**, onde a navegação visual é uma armadilha mortal. Eles têm uma recompensa pela "cabeça do piloto cego".
+#
