@@ -15,6 +15,14 @@ Before substantial work, read or consult:
 - `AI_COLLABORATION.md`
 - `docs/devops/GITHUB_AND_DEPLOY_STRATEGY.md` when the task touches GitHub, deploy, MasterQuest, or repository governance.
 
+For specialized production tasks, also consult the relevant fine directive:
+
+- `12. IA e Foundry Tools/Diretrizes/Protocolo_Avancos_SWADE_FVTT_OLF.md` for SWADE Advances in Foundry.
+- `12. IA e Foundry Tools/Diretrizes/Diretrizes de Construção de Stat Blocks - SBI Safe.md` for SBI-safe stat blocks.
+- `12. IA e Foundry Tools/Diretrizes/Diretrizes_Criacao_Criaturas_SWADE_FVTT_OLF.md` for SWADE/FVTT creature creation.
+- `12. IA e Foundry Tools/Diretrizes/Diretrizes de Atualizacao de Relogios - Rust under the Stars.md` for clock updates.
+- `03. Aventuras/Aventura 1 - Ferrugem e Estrelas/FQL/Arquitetura de Transposição de Módulo de Aventura para FQL - Plano e Modelos de Script.md` for adventure-to-FQL transposition.
+
 ## Baseline
 
 - Project: **OutsiderS - Lost Frontier**.

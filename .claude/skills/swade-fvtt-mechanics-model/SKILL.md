@@ -42,6 +42,14 @@ Start with project sources when available:
 4. `12. IA e Foundry Tools/Modulo FQL - OLF - Hack/olf-fql-campaign-ops/docs/18_SWADE_FVTT_Skill_Spec.md`
 5. `12. IA e Foundry Tools/Modulo FQL - OLF - Hack/olf-fql-campaign-ops/fixtures/swade_5_2_6/technical.index.json`
 
+The `olf-fql-campaign-ops` docs and fixtures live in the associated repository `WildPoxx/masterquest-fvtt-dev`. If they are not visible in Claude Project Knowledge, ask Mario to connect or attach that repository before doing deep SWADE/FVTT implementation work.
+
+For specific production protocols, read:
+
+- `12. IA e Foundry Tools/Diretrizes/Protocolo_Avancos_SWADE_FVTT_OLF.md` for Advances.
+- `12. IA e Foundry Tools/Diretrizes/Diretrizes de Construção de Stat Blocks - SBI Safe.md` for SBI-safe stat blocks.
+- `12. IA e Foundry Tools/Diretrizes/Diretrizes_Criacao_Criaturas_SWADE_FVTT_OLF.md` for creature creation and Foundry implementation checks.
+
 If local SWADE source code or PDFs are not available in Claude's context, say so rather than pretending to have inspected them. Use official PEG/SWADE sources only when live web or attached files are available.
 
 ## Response Modes

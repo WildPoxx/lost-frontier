@@ -18,6 +18,8 @@ Use this skill when Lost Frontier work touches quest operations, Forien's Quest 
 
 Start from the current repository, not from memory.
 
+Some FQL/MasterQuest files below live in the associated repository `WildPoxx/masterquest-fvtt-dev`, locally nested at `12. IA e Foundry Tools/Modulo FQL - OLF - Hack/olf-fql-campaign-ops`. If they are not visible in Claude Project Knowledge, ask Mario to connect or attach the associated MasterQuest repository.
+
 Read first when they exist:
 
 1. `README.md`
@@ -30,6 +32,8 @@ Read when relevant:
 - `12. IA e Foundry Tools/Modulo FQL - OLF - Hack/olf-fql-campaign-ops/docs/17_SWADE_5_2_6_FVTT_Baseline.md`
 - `12. IA e Foundry Tools/Modulo FQL - OLF - Hack/olf-fql-campaign-ops/docs/19_ChatGPT_Backup_Analysis.md`
 - `12. IA e Foundry Tools/Modulo FQL - OLF - Hack/olf-fql-campaign-ops/docs/12_Legacy_Scripts_Inventory.md`
+- `03. Aventuras/Aventura 1 - Ferrugem e Estrelas/FQL/Arquitetura de Transposição de Módulo de Aventura para FQL - Plano e Modelos de Script.md`
+- `12. IA e Foundry Tools/Diretrizes/Diretrizes de Atualizacao de Relogios - Rust under the Stars.md`
 - `docs/devops/GITHUB_AND_DEPLOY_STRATEGY.md` for GitHub, MasterQuest, deploy, or repository boundaries.
 
 If a needed file is not available through Claude's current GitHub/project context, say that clearly and ask Mario to attach it or expose the associated repository.

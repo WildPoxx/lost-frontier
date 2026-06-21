@@ -10,6 +10,8 @@ This file is the non-hidden mirror for Claude Project Knowledge. The executable 
 
 If `.claude/skills/` is not visible in the current Claude surface, treat the protocols below as the active skill instructions.
 
+Repository coverage note: the matrix repo is `WildPoxx/lost-frontier`. Some FQL/MasterQuest docs referenced below live in the associated repo `WildPoxx/masterquest-fvtt-dev`, locally nested at `12. IA e Foundry Tools/Modulo FQL - OLF - Hack/olf-fql-campaign-ops`. See `docs/ai/PROJECT_KNOWLEDGE_COVERAGE.md` for the current visibility map.
+
 ## lost-frontier-foundry-dev
 
 Use for OutsiderS Lost Frontier as a canon, RPG design, and Foundry VTT project. Trigger it when the task involves Lost Frontier files, Foundry VTT v13, SWADE 5.2.6, `module.json`, compendium packs, macros, bestiary, assets, GitHub workflow docs, AI collaboration, or project organization.
@@ -21,6 +23,14 @@ Before substantial work, consult:
 - `README.md`
 - `AI_COLLABORATION.md`
 - `docs/devops/GITHUB_AND_DEPLOY_STRATEGY.md` when the task touches GitHub, deploy, MasterQuest, or repository governance.
+
+For specialized production tasks, consult the relevant fine directive:
+
+- `12. IA e Foundry Tools/Diretrizes/Protocolo_Avancos_SWADE_FVTT_OLF.md`
+- `12. IA e Foundry Tools/Diretrizes/Diretrizes de Construção de Stat Blocks - SBI Safe.md`
+- `12. IA e Foundry Tools/Diretrizes/Diretrizes_Criacao_Criaturas_SWADE_FVTT_OLF.md`
+- `12. IA e Foundry Tools/Diretrizes/Diretrizes de Atualizacao de Relogios - Rust under the Stars.md`
+- `03. Aventuras/Aventura 1 - Ferrugem e Estrelas/FQL/Arquitetura de Transposição de Módulo de Aventura para FQL - Plano e Modelos de Script.md`
 
 Baseline:
 
@@ -60,6 +70,8 @@ Core stance:
 - Treat FQL as a useful legacy base, not as a design ceiling.
 - Prefer a bridge-first rewrite: preserve existing campaign data while moving validation, migration, diagnostics, GM confirmation, and write safety into OLF code.
 
+Some FQL/MasterQuest files below live in the associated repository `WildPoxx/masterquest-fvtt-dev`. If they are not visible in Claude Project Knowledge, ask Mario to connect or attach that repository.
+
 Read first when available:
 
 1. `README.md`
@@ -72,6 +84,8 @@ Read when relevant:
 - `12. IA e Foundry Tools/Modulo FQL - OLF - Hack/olf-fql-campaign-ops/docs/17_SWADE_5_2_6_FVTT_Baseline.md`
 - `12. IA e Foundry Tools/Modulo FQL - OLF - Hack/olf-fql-campaign-ops/docs/19_ChatGPT_Backup_Analysis.md`
 - `12. IA e Foundry Tools/Modulo FQL - OLF - Hack/olf-fql-campaign-ops/docs/12_Legacy_Scripts_Inventory.md`
+- `03. Aventuras/Aventura 1 - Ferrugem e Estrelas/FQL/Arquitetura de Transposição de Módulo de Aventura para FQL - Plano e Modelos de Script.md`
+- `12. IA e Foundry Tools/Diretrizes/Diretrizes de Atualizacao de Relogios - Rust under the Stars.md`
 - `docs/devops/GITHUB_AND_DEPLOY_STRATEGY.md`
 
 Legacy contract:
@@ -114,6 +128,8 @@ Baseline:
 
 Do not import behavior from newer SWADE or Foundry versions without saying that it may differ from the project baseline.
 
+The `olf-fql-campaign-ops` docs and fixtures referenced below live in the associated repository `WildPoxx/masterquest-fvtt-dev`. If they are not visible in Claude Project Knowledge, ask Mario to connect or attach that repository before doing deep SWADE/FVTT implementation work.
+
 Separate three layers:
 
 - **table rule**: what the book or game procedure says;
@@ -127,6 +143,12 @@ Read first when available:
 3. `12. IA e Foundry Tools/Modulo FQL - OLF - Hack/olf-fql-campaign-ops/docs/17_SWADE_5_2_6_FVTT_Baseline.md`
 4. `12. IA e Foundry Tools/Modulo FQL - OLF - Hack/olf-fql-campaign-ops/docs/18_SWADE_FVTT_Skill_Spec.md`
 5. `12. IA e Foundry Tools/Modulo FQL - OLF - Hack/olf-fql-campaign-ops/fixtures/swade_5_2_6/technical.index.json`
+
+For specific production protocols, read:
+
+- `12. IA e Foundry Tools/Diretrizes/Protocolo_Avancos_SWADE_FVTT_OLF.md`
+- `12. IA e Foundry Tools/Diretrizes/Diretrizes de Construção de Stat Blocks - SBI Safe.md`
+- `12. IA e Foundry Tools/Diretrizes/Diretrizes_Criacao_Criaturas_SWADE_FVTT_OLF.md`
 
 For rules questions, explain the mechanic simply, say what the player or GM does at the table, then explain Foundry behavior if useful.
 
