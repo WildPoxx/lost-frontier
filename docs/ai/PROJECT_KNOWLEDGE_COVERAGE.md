@@ -17,7 +17,7 @@ These files are in the matrix repo and should be visible when Claude syncs `Wild
 - `README.md`
 - `docs/ai/CLAUDE_SKILLS_INDEX.md`
 - `.claude/skills/lost-frontier-foundry-dev/SKILL.md`
-- `.claude/skills/fql-olf-quest-ops-architecture/SKILL.md`
+- `.claude/skills/masterquest-quest-ops/SKILL.md`
 - `.claude/skills/swade-fvtt-mechanics-model/SKILL.md`
 - `docs/devops/GITHUB_AND_DEPLOY_STRATEGY.md`
 

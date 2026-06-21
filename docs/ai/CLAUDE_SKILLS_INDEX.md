@@ -4,7 +4,7 @@ This file is the non-hidden mirror for Claude Project Knowledge. The executable 
 
 ```text
 .claude/skills/lost-frontier-foundry-dev/SKILL.md
-.claude/skills/fql-olf-quest-ops-architecture/SKILL.md
+.claude/skills/masterquest-quest-ops/SKILL.md
 .claude/skills/swade-fvtt-mechanics-model/SKILL.md
 ```
 
@@ -59,9 +59,9 @@ Foundry guidance:
 - If a macro depends on FQL, check that `forien-quest-log` is active and give a clear GM-facing warning when it is not.
 - For portability, prefer name/compendium resolution where practical, while preserving working UUIDs already present.
 
-## fql-olf-quest-ops-architecture
+## masterquest-quest-ops
 
-Use for Lost Frontier quest operations, Forien's Quest Log, TAM diagnostics, or migration from legacy FQL behavior into OLF-owned workflows. Trigger it for FQL legacy payloads, `JournalEntry` quest trees, `flags["forien-quest-log"].json`, TAM logs/macros, quest and subquest topology, GM control panels, dry-run patch plans, backup-safe updates, or OLF replacements for FQL internals.
+Use for MasterQuest and Lost Frontier quest operations, Forien's Quest Log, TAM diagnostics, or migration from legacy FQL behavior into OLF-owned workflows. Trigger it for MasterQuest work, FQL legacy payloads, `JournalEntry` quest trees, `flags["forien-quest-log"].json`, TAM logs/macros, quest and subquest topology, GM control panels, dry-run patch plans, backup-safe updates, or OLF replacements for FQL internals.
 
 Core stance:
 

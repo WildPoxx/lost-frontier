@@ -33,7 +33,7 @@ If the environment exposes `.claude/skills/`, use those files as the executable 
 ## Skill Routing
 
 - Use `lost-frontier-foundry-dev` for general OLF, Foundry module, repository, canon-production, pack, macro, asset, and GitHub workflow work.
-- Use `fql-olf-quest-ops-architecture` for FQL legacy payloads, quest trees, TAM logs/macros, migration, diagnostics, patch plans, backups, or GM operations panels.
+- Use `masterquest-quest-ops` for MasterQuest, FQL legacy payloads, quest trees, TAM logs/macros, migration, diagnostics, patch plans, backups, or GM operations panels.
 - Use `swade-fvtt-mechanics-model` for SWADE 5.2.6 rules, Foundry implementation questions, actor/item/combat/journal JSON, and adventure mechanics.
 
 When a task touches more than one area, combine the relevant protocols and say which ones are being used.

@@ -1,11 +1,11 @@
 ---
-name: fql-olf-quest-ops-architecture
-description: Engineer, diagnose, migrate, or extend Lost Frontier quest operations built from Forien's Quest Log concepts. Use when working with FQL legacy payloads, JournalEntry quest trees, flags["forien-quest-log"].json, TAM logs/macros, quest and subquest topology, GM control panels, dry-run patch plans, backup-safe updates, or OLF replacements for FQL internals.
+name: masterquest-quest-ops
+description: Engineer, diagnose, migrate, or extend MasterQuest quest operations for Lost Frontier, built from Forien's Quest Log concepts. Use when working with MasterQuest, FQL legacy payloads, JournalEntry quest trees, flags["forien-quest-log"].json, TAM logs/macros, quest and subquest topology, GM control panels, dry-run patch plans, backup-safe updates, or OLF replacements for FQL internals.
 ---
 
-# FQL OLF Quest Ops Architecture
+# MasterQuest Quest Ops
 
-Use this skill when Lost Frontier work touches quest operations, Forien's Quest Log, TAM diagnostics, or migration from legacy FQL behavior into OLF-owned workflows.
+Use this skill when Lost Frontier or MasterQuest work touches quest operations, Forien's Quest Log, TAM diagnostics, or migration from legacy FQL behavior into OLF-owned workflows.
 
 ## Core Stance
 
