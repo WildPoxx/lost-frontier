@@ -20,6 +20,7 @@ These files are in the matrix repo and should be visible when Claude syncs `Wild
 - `.claude/skills/masterquest-quest-ops/SKILL.md`
 - `.claude/skills/swade-fvtt-mechanics-model/SKILL.md`
 - `docs/devops/GITHUB_AND_DEPLOY_STRATEGY.md`
+- `docs/ai/HANDOFF_CLAUDE_SKILLS_AND_GITHUB_FOR_VERACRUCIA.md`
 
 Fine operational directives in the matrix repo:
 
